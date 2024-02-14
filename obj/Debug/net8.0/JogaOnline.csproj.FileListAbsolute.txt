@@ -1,0 +1,14 @@
+C:\Users\giova\serve\JogaOnline\bin\Debug\net8.0\JogaOnline.exe
+C:\Users\giova\serve\JogaOnline\bin\Debug\net8.0\JogaOnline.deps.json
+C:\Users\giova\serve\JogaOnline\bin\Debug\net8.0\JogaOnline.runtimeconfig.json
+C:\Users\giova\serve\JogaOnline\bin\Debug\net8.0\JogaOnline.dll
+C:\Users\giova\serve\JogaOnline\bin\Debug\net8.0\JogaOnline.pdb
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\JogaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\JogaOnline.AssemblyInfoInputs.cache
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\JogaOnline.AssemblyInfo.cs
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\JogaOnline.csproj.CoreCompileInputs.cache
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\JogaOnline.dll
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\refint\JogaOnline.dll
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\JogaOnline.pdb
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\JogaOnline.genruntimeconfig.cache
+C:\Users\giova\serve\JogaOnline\obj\Debug\net8.0\ref\JogaOnline.dll
