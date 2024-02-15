@@ -2,7 +2,7 @@
  using System.Collections.Generic;
 
  namespace jogaOnline.Prodduct{
-    abstract class ProductGeneric : IEquatable<ProductGeneric>{
+    abstract class ProductGeneric{
 
         public double Valor { get; set; }
         public int DataFabric { get; set; }
